@@ -1,7 +1,4 @@
 # Alunos
-<<<<<<< HEAD
+- hidekazu
 #Professores
--hidekazu
-=======
-- Hidekazu
->>>>>>> add-aluno
+- kamila 
